@@ -26,7 +26,7 @@ app.get('/api/notes', (req, res) => {
 
 app.post('/api/notes', (req, res) => {
   console.log(req.body);
-  let newNote = {
+  const newNote = {
     noteTitle: req.body.title,
     noteText: req.body.text
   }
