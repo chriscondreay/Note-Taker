@@ -6,3 +6,5 @@ This is a webs application that allows user to take notes and delete them when t
 The deployed application can be found here: https://note-taker-2319.herokuapp.com/notes
 
 ## Demo/Templates
+
+./demo/Note_Taker_Demo.mp4
