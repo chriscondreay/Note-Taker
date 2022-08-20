@@ -5,20 +5,15 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "dev": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.16.4",
+    "underscore": "^1.13.4"
   },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chriscondreay/Note-Taker-hw.git"
-  },
-  "bugs": {
-    "url": "https://github.com/chriscondreay/Note-Taker-hw/issues"
-  },
-  "homepage": "https://github.com/chriscondreay/Note-Taker-hw#readme"
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
