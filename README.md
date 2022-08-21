@@ -7,4 +7,6 @@ The deployed application can be found here: https://note-taker-2319.herokuapp.co
 
 ## Demo/Templates
 
-./demo/Note_Taker_Demo.mp4
+![alt text](./demo/Note_Taker_Demo.mp4)
+![alt text](./demo/11-express-homework-demo-01.png)
+![alt text](./demo/11-express-homework-demo-02.png)
